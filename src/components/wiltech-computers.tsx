@@ -17,11 +17,11 @@ export default function WiltechComputers() {
   const [currentSlide, setCurrentSlide] = useState(0)
 
   const services = [
-    { icon: <Laptop className="w-12 h-12" />, title: 'Hardware Repair', description: 'Expert repair for all computer hardware issues.' },
-    { icon: <Wrench className="w-12 h-12" />, title: 'Software Repair', description: 'Fixing software problems and removing viruses.' },
-    { icon: <Download className="w-12 h-12" />, title: 'Software Installation', description: 'Installation and setup of various software applications.' },
-    { icon: <Smartphone className="w-12 h-12" />, title: 'Phone Repair', description: 'Professional repair for various phone models and issues.' },
-    { icon: <ShoppingBag className="w-12 h-12" />, title: 'Accessories & Sales', description: 'Wide range of computer accessories and new systems for sale.' },
+    { icon: <Laptop className="w-12 h-12" />, title: 'Hardware Repair', description: 'Expert repair for all computer hardware issues:screen,keyboard,hinges.' },
+    { icon: <Wrench className="w-12 h-12" />, title: 'Software Repair', description: 'Fixing software problems and removing viruses,inncluding phone flashing.' },
+    { icon: <Download className="w-12 h-12" />, title: 'Software Installation', description: 'Installation and setup of various software applications: windows,office ad more others.' },
+    { icon: <Smartphone className="w-12 h-12" />, title: 'Phone Repair', description: 'Professional repair for various phone models and issues:OS,screen.' },
+    { icon: <ShoppingBag className="w-12 h-12" />, title: 'Accessories & Sales', description: 'Wide range of computer accessories and new systems for saleSCREEN KEYBOARD,CHARGER,SPEAKERS,F.CABLES.CMOS.' },
     { icon: <Monitor className="w-12 h-12" />, title: 'Computer Sales', description: 'New and refurbished computers for every need and budget.' },
   ]
 
@@ -153,10 +153,11 @@ export default function WiltechComputers() {
                     <div className="space-y-4">
                       <h2 className="text-2xl font-semibold">Why Choose Wiltech Computers?</h2>
                       <ul className="list-disc list-inside space-y-2">
-                        <li>Expert technicians with years of experience</li>
+                        <li>Expert technicians with years of experience on mobile phone and computers</li>
                         <li>Fast and reliable service for all your computer needs</li>
                         <li>Competitive pricing and student discounts</li>
                         <li>Conveniently located on Baraton University campus</li>
+                        <li>door-to-door timely service delivery around Baraton and country wide</li>
                         <li>Wide range of services from repairs to new computer sales</li>
                       </ul>
                       <p className="text-lg">
