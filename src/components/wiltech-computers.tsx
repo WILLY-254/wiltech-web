@@ -188,9 +188,9 @@ export default function WiltechComputers() {
                       </p>
                       <h3 className="text-xl font-semibold">Our History</h3>
                       <p>
-                        Founded in 2010 by a group of passionate Baraton University alumni, Wiltech Computers has grown from a small 
+                        Founded in 2022 by a Baraton University alumnus, Wiltech Computers has grown from a small 
                         repair shop to a full-service technology center. We've helped thousands of students and faculty members over 
-                        the years, continuously adapting our services to meet the evolving needs of the academic community.
+                        the years in fixing mobile phone and computer services continuously adapting our services to meet the evolving needs of the academic community.
                       </p>
                       <h3 className="text-xl font-semibold">Our Commitment</h3>
                       <p>
