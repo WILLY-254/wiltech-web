@@ -21,7 +21,7 @@ export default function WiltechComputers() {
     { icon: <Wrench className="w-12 h-12" />, title: 'Software Repair', description: 'Fixing software problems and removing viruses,inncluding phone flashing.' },
     { icon: <Download className="w-12 h-12" />, title: 'Software Installation', description: 'Installation and setup of various software applications: windows,office ad more others.' },
     { icon: <Smartphone className="w-12 h-12" />, title: 'Phone Repair', description: 'Professional repair for various phone models and issues:OS,screen.' },
-    { icon: <ShoppingBag className="w-12 h-12" />, title: 'Accessories & Sales', description: 'Wide range of computer accessories and new systems for saleSCREEN KEYBOARD,CHARGER,SPEAKERS,F.CABLES.CMOS.' },
+    { icon: <ShoppingBag className="w-12 h-12" />, title: 'Accessories & Sales', description: 'Wide range of computer accessories and new systems for sale: SCREEN,KEYBOARD,CHARGER,SPEAKERS,F.CABLES.CMOS.' },
     { icon: <Monitor className="w-12 h-12" />, title: 'Computer Sales', description: 'New and refurbished computers for every need and budget.' },
   ]
 
